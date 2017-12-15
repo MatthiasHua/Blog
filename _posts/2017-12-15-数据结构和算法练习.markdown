@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "数据结构和算法练习"
+date:   2017-12-15 20:20:15 +0800
+categories: jekyll update
+---
+想要训练一下数据结构和算法，顺便参加一下APT。
+
+参考课程：[数据结构](http://www.icourse163.org/course/ZJU-93001?tid=1002019005)
+
+ATP现在没开放，只有真题部分在APT上能测试。。。
+
+代码仓库
